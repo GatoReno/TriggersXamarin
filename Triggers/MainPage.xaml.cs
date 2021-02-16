@@ -13,6 +13,7 @@ namespace Triggers
         public MainPage()
         {
             InitializeComponent();
+            BindingContext = new MainViewModel();
         }
     }
 }

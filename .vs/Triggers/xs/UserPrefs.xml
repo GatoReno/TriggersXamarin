@@ -1,6 +1,33 @@
 ﻿<Properties StartupConfiguration="{7958DD45-440A-4A14-B8E5-85D0A6F2E029}|Default">
   <MonoDevelop.Ide.ItemProperties.Triggers FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Triggers.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Triggers.Android FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triggers/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Triggers/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Triggers/MainViewModel.cs" Line="1" Column="1" />
+      <File FileName="Triggers/InfoModel.cs" Line="7" Column="41" />
+      <File FileName="Triggers/MainPage.xaml.cs" Line="16" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Triggers" expanded="True">
+            <Node name="Triggers" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Triggers.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Triggers.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_3a_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,0 +1,14 @@
+/Users/edrodriguez/projects/Triggers/Triggers/bin/Debug/netstandard2.0/Triggers.deps.json
+/Users/edrodriguez/projects/Triggers/Triggers/bin/Debug/netstandard2.0/Triggers.dll
+/Users/edrodriguez/projects/Triggers/Triggers/bin/Debug/netstandard2.0/ref/Triggers.dll
+/Users/edrodriguez/projects/Triggers/Triggers/bin/Debug/netstandard2.0/Triggers.pdb
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/Triggers.csprojAssemblyReference.cache
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/Triggers.AssemblyInfoInputs.cache
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/Triggers.AssemblyInfo.cs
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/Triggers.csproj.CoreCompileInputs.cache
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/Triggers.dll
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/ref/Triggers.dll
+/Users/edrodriguez/projects/Triggers/Triggers/obj/Debug/netstandard2.0/Triggers.pdb
