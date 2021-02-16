@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{7958DD45-440A-4A14-B8E5-85D0A6F2E029}|Default">
+  <MonoDevelop.Ide.ItemProperties.Triggers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Triggers.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Triggers.Android FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
